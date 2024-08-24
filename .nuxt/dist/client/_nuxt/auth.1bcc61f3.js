@@ -1,0 +1,1 @@
+import{_ as s,c as t,s as c,o}from"./entry.9e09305a.js";const l={},n={class:"flex min-h-full flex-col justify-center px-6 py-12 lg:px-8"};function r(e,a){return o(),t("div",n,[c(e.$slots,"default")])}const _=s(l,[["render",r]]);export{_ as default};
